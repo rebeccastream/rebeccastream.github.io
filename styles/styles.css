@@ -1,0 +1,26 @@
+
+
+
+body {
+	font-size:14px;
+  font-family: 'Work Sans', sans-serif;
+	background-color: #DFF8F6;
+	min-height: 700px;
+	}
+
+
+main {
+	background-color: #fff;
+	max-width: 700px;
+	}
+
+h1 {
+  font-size: 1.3em;
+  font-family: 'Playfair Display', serif;
+  color: #27636B;
+}
+
+p {
+  font-size: .8em;
+  color: #27636B;
+}
