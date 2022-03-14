@@ -1,0 +1,37 @@
+<svg width="24" height="42" viewBox="0 0 24 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5_104)">
+<g clip-path="url(#clip1_5_104)">
+<path d="M30 13C30 16.3137 27.3137 19 24 19C20.6863 19 18 16.3137 18 13" stroke="#ffd5c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 13C6 16.3137 3.31371 19 2.98023e-08 19C-3.31371 19 -6 16.3137 -6 13" stroke="#ffd5c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle r="2" transform="matrix(1 0 0 -1 12 10)" fill="rgba(243, 213, 203, .8)"/>
+<circle r="2" transform="matrix(1 0 0 -1 12 21)" fill="rgba(243, 213, 203, .8)"/>
+<circle r="2" transform="matrix(1 0 0 -1 24 10)" fill="rgba(243, 213, 203, .8)"/>
+<circle r="2" transform="matrix(1 0 0 -1 24 0)" fill="rgba(243, 213, 203, .8)"/>
+<circle r="2" transform="matrix(1 0 0 -1 0 10)" fill="rgba(243, 213, 203, .8)"/>
+<circle r="2" transform="matrix(1 0 0 -1 0 0)" fill="rgba(243, 213, 203, .8)"/>
+<path d="M6 8C6 4.68629 8.68629 2 12 2C15.3137 2 18 4.68629 18 8" stroke="#ffd5c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g clip-path="url(#clip2_5_104)">
+<path d="M6 34C6 37.3137 8.68629 40 12 40C15.3137 40 18 37.3137 18 34" stroke="#ffd5c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 29C6 25.6863 3.31371 23 2.98023e-08 23C-3.31371 23 -6 25.6863 -6 29" stroke="#ffd5c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cy="31" r="2" transform="rotate(180 0 31)" fill="rgba(243, 213, 203, .8)"/>
+<circle cy="42" r="2" transform="rotate(180 0 42)" fill="rgba(243, 213, 203, .8)"/>
+<circle cx="24" cy="31" r="2" transform="rotate(180 24 31)" fill="rgba(243, 213, 203, .8)"/>
+<circle cx="24" cy="42" r="2" transform="rotate(180 24 42)" fill="rgba(243, 213, 203, .8)"/>
+<circle cx="12" cy="31" r="2" transform="rotate(180 12 31)" fill="rgba(243, 213, 203, .8)"/>
+<circle cx="12" cy="21" r="2" transform="rotate(180 12 21)" fill="rgba(243, 213, 203, .8)"/>
+<path d="M30 29C30 25.6863 27.3137 23 24 23C20.6863 23 18 25.6863 18 29" stroke="#ffd5c7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_5_104">
+<rect width="24" height="42" fill="white"/>
+</clipPath>
+<clipPath id="clip1_5_104">
+<rect width="52" height="21" fill="white" transform="matrix(1 0 0 -1 -8 21)"/>
+</clipPath>
+<clipPath id="clip2_5_104">
+<rect width="52" height="21" fill="white" transform="translate(44 42) rotate(180)"/>
+</clipPath>
+</defs>
+</svg>
